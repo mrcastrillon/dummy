@@ -14,10 +14,58 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>I need some love.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T200827Z" creationid="Mr.Castrillon" creationdate="20180227T200827Z">
+        <seg>Necesito amor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I need some money.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T200759Z" creationid="Mr.Castrillon" creationdate="20180227T200759Z">
+        <seg>Necesito dinero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>My house is black.</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180226T183551Z" creationid="Mr.Castrillon" creationdate="20180226T183156Z">
         <seg>Mi casa es negra </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have a cat.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T200754Z" creationid="Mr.Castrillon" creationdate="20180227T200754Z">
+        <seg>Tu tienes un gato.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need some love.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T200805Z" creationid="Mr.Castrillon" creationdate="20180227T200805Z">
+        <seg>Necesitas amor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You need some money too.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T200824Z" creationid="Mr.Castrillon" creationdate="20180227T200824Z">
+        <seg>Necesitas dinero tambien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your house is black.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T200838Z" creationid="Mr.Castrillon" creationdate="20180227T200838Z">
+        <seg>Tu casa es negra</seg>
       </tuv>
     </tu>
     <tu>
