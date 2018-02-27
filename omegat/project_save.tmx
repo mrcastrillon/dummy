@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>Don't touch that!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T201700Z" creationid="Mr.Castrillon" creationdate="20180227T201700Z">
+        <seg>No toques eso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>I have a dog.</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180226T183622Z" creationid="Mr.Castrillon" creationdate="20180226T183622Z">
@@ -34,6 +42,22 @@
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180226T183551Z" creationid="Mr.Castrillon" creationdate="20180226T183156Z">
         <seg>Mi casa es negra </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please come on in!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T201431Z" creationid="Mr.Castrillon" creationdate="20180227T201424Z">
+        <seg>!Por favor adelante!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sit down over there.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T201606Z" creationid="Mr.Castrillon" creationdate="20180227T201606Z">
+        <seg>Siéntese por favor.</seg>
       </tuv>
     </tu>
     <tu>
