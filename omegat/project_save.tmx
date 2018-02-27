@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>Welcome to my house.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T201300Z" creationid="Mr.Castrillon" creationdate="20180227T201233Z">
+        <seg>Bienvenido a mi casa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>You have a cat.</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T200754Z" creationid="Mr.Castrillon" creationdate="20180227T200754Z">
