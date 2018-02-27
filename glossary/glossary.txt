@@ -1,3 +1,4 @@
 house	casa
 blue	azul
 cat	gato
+Welcome	Bienvenido
