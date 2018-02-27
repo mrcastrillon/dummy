@@ -6,6 +6,14 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="EN">
+        <seg>Don't shoot me, please!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T201902Z" creationid="Mr.Castrillon" creationdate="20180227T201902Z">
+        <seg>No me dispare</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Don't touch that!</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T201700Z" creationid="Mr.Castrillon" creationdate="20180227T201700Z">
@@ -46,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="EN">
+        <seg>OK, you may touch it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T201856Z" creationid="Mr.Castrillon" creationdate="20180227T201856Z">
+        <seg>OK, tócala</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
         <seg>Please come on in!</seg>
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T201431Z" creationid="Mr.Castrillon" creationdate="20180227T201424Z">
@@ -58,6 +74,22 @@
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T201606Z" creationid="Mr.Castrillon" creationdate="20180227T201606Z">
         <seg>Siéntese por favor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sorry, bye-bye.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T201938Z" creationid="Mr.Castrillon" creationdate="20180227T201938Z">
+        <seg>Lo siento adiós</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>That's my father's shotgun!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T201850Z" creationid="Mr.Castrillon" creationdate="20180227T201850Z">
+        <seg>Esa es la escopeta de mi padre</seg>
       </tuv>
     </tu>
     <tu>
@@ -90,6 +122,14 @@
       </tuv>
       <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T200824Z" creationid="Mr.Castrillon" creationdate="20180227T200824Z">
         <seg>Necesitas dinero tambien</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You'll regret inviting me over.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="Mr.Castrillon" changedate="20180227T201909Z" creationid="Mr.Castrillon" creationdate="20180227T201909Z">
+        <seg>Te arrepentiras de invitarme</seg>
       </tuv>
     </tu>
     <tu>
